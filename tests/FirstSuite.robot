@@ -7,6 +7,7 @@ Default Tags   sanity
 MyFirstTest
     [Tags]    smoke 
     Log  Hello World...
+    Log   2
 MySecondTest
     Log  2 nd
     Set Tags   regression
